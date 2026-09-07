@@ -1,1 +1,1 @@
-# phuocbm55-cmyk.github.io
+# Privacy Policy This app does not collect personal data beyond what is required to schedule and post content on behalf of the user via TikTok's API. # Terms of Service By using this app, you agree to use it only for scheduling and posting your own content to your own connected social media accounts.
